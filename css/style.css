@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,700'); /* import Montserrat font  */
+
+body, html{
+    font-family: 'Montserrat', sans-serif;
+    height: 100;
+    margin: 0;
+}
+
+body{
+    background: #F4F4F4 url('../assets/candlebg.svg');
+    background-size: cover; 
+}
+
+#home-container{
+    display: grid;
+    grid-template-columns: .5fr 1fr 1fr .5fr; /* for left and right sections */
+    grid-gap: 10px;
+    grid-template-areas: 
+            ". left right .";
+    height: 100%;        
+}
+
+#inner{
+    grid-area: left;
+    align-self: center;
+    justify-self: center;
+}
+
+#illustration{
+    grid-area: right;
+    align-self: center;
+    justify-self: center;
+    width: 80%;
+    padding: 20%;
+}
+
+img#logo{
+    width: 130px;
+    margin-bottom: 1.6em;
+}
+
+h1{
+    text-transform: uppercase;
+    color: #535353;
+    margin-bottom: .2em;
+}
+
+p.subtitle{
+    font-size: 1.4em;
+    color: #858585;
+    margin-top: 0;
+}
+
+.cta{
+    background-color: #09BBE9;
+    padding: 1em;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 2em;
+    display: inline-block;
+    border-radius: 5px;
+    text-decoration: none;
+    /* TODO: add glowing type animation while on hover */
+}
+
+#monitor{
+    animation: monitorIn 1s ease-in-out forwards; /* assign animation to monitor with 'monitorIn' as keyframe name */
+    opacity: 0;
+}
+
+.crypto-icons{
+    position: absolute;
+    width: 12%;
+}
+
+#dash{
+    margin-top: -4%;
+    margin-left: 9%;
+    animation: chatblips .5s ease-in-out 2.7s forwards; /* assign animation to dash with 'chatblips' as keyframe name */
+    opacity: 0;
+    z-index: 2;
+}
+
+#eth{
+    margin-top: 9.5%;
+    margin-left: 18%;
+    animation: chatblips .5s ease-in-out 1.9s forwards; /* assign animation to eth with 'chatblips' as keyframe name */
+    opacity: 0;
+    z-index: 2;
+}
+
+#iota{
+    margin-top: 5%;
+    margin-left: -1.5%;
+    animation: chatblips .5s ease-in-out .8s forwards; /* assign animation to iota with 'chatblips' as keyframe name */
+    opacity: 0;
+    z-index: 2;
+}
+
+@keyframes monitorIn{
+    from{
+        transform: translateY(-30px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes chatblips{
+    /* taken from http://angrytools.com/css/animation/ for bounce-in animation*/
+    0%{
+        opacity: 0;
+        transform: scale(.3);
+      }
+      50%{
+        opacity: 1;
+        transform: scale(1.0);
+      }
+      70%{
+        transform: scale(0.9);
+      }
+      100%{
+        transform: scale(1);
+        opacity: 1;
+      }
+}
