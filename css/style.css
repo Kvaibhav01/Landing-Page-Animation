@@ -16,12 +16,9 @@ body{
 }
 
 #home-container{
-    display: grid;
-    grid-template-columns: 0fr 1fr 1fr .5fr; /* for left and right sections */
-    grid-gap: 10px;
-    grid-template-areas: 
-            ". left right .";
-    height: 100%;        
+    display: flex;
+    justify-content: center;
+    align-items: center;     
 }
 
 #inner{
