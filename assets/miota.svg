@@ -3,71 +3,72 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 163 81.8" style="enable-background:new 0 0 163 81.8;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#12BFAE;stroke:#252A2E;stroke-width:3;}
-	.st1{fill:#FFFFFF;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#12BFAE;stroke:#252A2E;stroke-width:3;}
 	.st2{fill:#808080;}
 	.st3{font-family:'Montserrat-SemiBold';}
-	.st4{font-size:17px;}
+	.st4{font-size:15.5341px;}
 	.st5{fill:none;stroke:#404040;stroke-width:3;}
 </style>
-<circle class="st0" cx="29.5" cy="53" r="26.4"/>
+<rect x="52.9" y="3.7" class="st0" width="107.1" height="23.9"/>
+<circle class="st1" cx="29.5" cy="53" r="26.4"/>
 <g transform="translate(9.158 10.025)">
-	<circle class="st1" cx="27.6" cy="28.5" r="1.9"/>
-	<circle class="st1" cx="28.1" cy="33.6" r="1.6"/>
-	<circle class="st1" cx="32.4" cy="34.2" r="1.6"/>
-	<circle class="st1" cx="31.9" cy="38.6" r="1.4"/>
-	<circle class="st1" cx="35.4" cy="39.9" r="1.4"/>
-	<circle class="st1" cx="27.6" cy="38" r="1.4"/>
-	<circle class="st1" cx="26.3" cy="41.5" r="1.2"/>
-	<circle class="st1" cx="30.6" cy="42.1" r="1.2"/>
-	<circle class="st1" cx="34.1" cy="43.4" r="1.2"/>
-	<circle class="st1" cx="32.4" cy="46.1" r="1"/>
-	<circle class="st1" cx="28.9" cy="44.8" r="1"/>
-	<circle class="st1" cx="24.6" cy="44.2" r="1"/>
-	<circle class="st1" cx="27" cy="46.6" r="0.9"/>
-	<circle class="st1" cx="30.4" cy="48" r="0.9"/>
-	<circle class="st1" cx="28.5" cy="49.1" r="0.7"/>
-	<circle class="st1" cx="26.6" cy="49.7" r="0.7"/>
-	<circle class="st1" cx="25" cy="47.8" r="0.8"/>
-	<circle class="st1" cx="22.6" cy="46" r="0.9"/>
-	<circle class="st1" cx="29.7" cy="55.8" r="1.9"/>
-	<circle class="st1" cx="25" cy="53.8" r="1.6"/>
-	<circle class="st1" cx="22.3" cy="57.2" r="1.6"/>
-	<circle class="st1" cx="21.5" cy="51.1" r="1.4"/>
-	<circle class="st1" cx="18.8" cy="54.6" r="1.4"/>
-	<circle class="st1" cx="16" cy="56.9" r="1.4"/>
-	<circle class="st1" cx="13.5" cy="54" r="1.2"/>
-	<circle class="st1" cx="16.4" cy="51.7" r="1.2"/>
-	<circle class="st1" cx="19.1" cy="48.3" r="1.2"/>
-	<circle class="st1" cx="15" cy="48.9" r="1"/>
-	<circle class="st1" cx="12.1" cy="51.2" r="1"/>
-	<circle class="st1" cx="11.5" cy="48.6" r="0.9"/>
-	<circle class="st1" cx="11.4" cy="46.3" r="0.8"/>
-	<circle class="st1" cx="11.8" cy="44.4" r="0.7"/>
-	<circle class="st1" cx="14.3" cy="44" r="0.8"/>
-	<circle class="st1" cx="17" cy="42.8" r="0.9"/>
-	<circle class="st1" cx="17.7" cy="45.4" r="1"/>
-	<circle class="st1" cx="14.3" cy="46.3" r="0.9"/>
-	<circle class="st1" cx="5" cy="44.1" r="1.9"/>
-	<circle class="st1" cx="9.2" cy="41" r="1.7"/>
-	<circle class="st1" cx="7.5" cy="37" r="1.6"/>
-	<circle class="st1" cx="11.5" cy="35.3" r="1.4"/>
-	<circle class="st1" cx="13.2" cy="39.3" r="1.4"/>
-	<circle class="st1" cx="16.9" cy="38.7" r="1.2"/>
-	<circle class="st1" cx="20" cy="38.8" r="1"/>
-	<circle class="st1" cx="22.6" cy="39.6" r="0.9"/>
-	<circle class="st1" cx="23" cy="36.6" r="0.8"/>
-	<circle class="st1" cx="21" cy="35.5" r="0.9"/>
-	<circle class="st1" cx="18.4" cy="34.8" r="1"/>
-	<circle class="st1" cx="15.2" cy="34.6" r="1.2"/>
-	<circle class="st1" cx="11" cy="31.6" r="1.4"/>
-	<circle class="st1" cx="14.6" cy="31" r="1.2"/>
-	<circle class="st1" cx="17.8" cy="31.1" r="1"/>
-	<circle class="st1" cx="20.4" cy="31.9" r="0.9"/>
-	<circle class="st1" cx="22.4" cy="33" r="0.8"/>
-	<circle class="st1" cx="23.8" cy="34.3" r="0.6"/>
+	<circle class="st0" cx="27.6" cy="28.5" r="1.9"/>
+	<circle class="st0" cx="28.1" cy="33.6" r="1.6"/>
+	<circle class="st0" cx="32.4" cy="34.2" r="1.6"/>
+	<circle class="st0" cx="31.9" cy="38.6" r="1.4"/>
+	<circle class="st0" cx="35.4" cy="39.9" r="1.4"/>
+	<circle class="st0" cx="27.6" cy="38" r="1.4"/>
+	<circle class="st0" cx="26.3" cy="41.5" r="1.2"/>
+	<circle class="st0" cx="30.6" cy="42.1" r="1.2"/>
+	<circle class="st0" cx="34.1" cy="43.4" r="1.2"/>
+	<circle class="st0" cx="32.4" cy="46.1" r="1"/>
+	<circle class="st0" cx="28.9" cy="44.8" r="1"/>
+	<circle class="st0" cx="24.6" cy="44.2" r="1"/>
+	<circle class="st0" cx="27" cy="46.6" r="0.9"/>
+	<circle class="st0" cx="30.4" cy="48" r="0.9"/>
+	<circle class="st0" cx="28.5" cy="49.1" r="0.7"/>
+	<circle class="st0" cx="26.6" cy="49.7" r="0.7"/>
+	<circle class="st0" cx="25" cy="47.8" r="0.8"/>
+	<circle class="st0" cx="22.6" cy="46" r="0.9"/>
+	<circle class="st0" cx="29.7" cy="55.8" r="1.9"/>
+	<circle class="st0" cx="25" cy="53.8" r="1.6"/>
+	<circle class="st0" cx="22.3" cy="57.2" r="1.6"/>
+	<circle class="st0" cx="21.5" cy="51.1" r="1.4"/>
+	<circle class="st0" cx="18.8" cy="54.6" r="1.4"/>
+	<circle class="st0" cx="16" cy="56.9" r="1.4"/>
+	<circle class="st0" cx="13.5" cy="54" r="1.2"/>
+	<circle class="st0" cx="16.4" cy="51.7" r="1.2"/>
+	<circle class="st0" cx="19.1" cy="48.3" r="1.2"/>
+	<circle class="st0" cx="15" cy="48.9" r="1"/>
+	<circle class="st0" cx="12.1" cy="51.2" r="1"/>
+	<circle class="st0" cx="11.5" cy="48.6" r="0.9"/>
+	<circle class="st0" cx="11.4" cy="46.3" r="0.8"/>
+	<circle class="st0" cx="11.8" cy="44.4" r="0.7"/>
+	<circle class="st0" cx="14.3" cy="44" r="0.8"/>
+	<circle class="st0" cx="17" cy="42.8" r="0.9"/>
+	<circle class="st0" cx="17.7" cy="45.4" r="1"/>
+	<circle class="st0" cx="14.3" cy="46.3" r="0.9"/>
+	<circle class="st0" cx="5" cy="44.1" r="1.9"/>
+	<circle class="st0" cx="9.2" cy="41" r="1.7"/>
+	<circle class="st0" cx="7.5" cy="37" r="1.6"/>
+	<circle class="st0" cx="11.5" cy="35.3" r="1.4"/>
+	<circle class="st0" cx="13.2" cy="39.3" r="1.4"/>
+	<circle class="st0" cx="16.9" cy="38.7" r="1.2"/>
+	<circle class="st0" cx="20" cy="38.8" r="1"/>
+	<circle class="st0" cx="22.6" cy="39.6" r="0.9"/>
+	<circle class="st0" cx="23" cy="36.6" r="0.8"/>
+	<circle class="st0" cx="21" cy="35.5" r="0.9"/>
+	<circle class="st0" cx="18.4" cy="34.8" r="1"/>
+	<circle class="st0" cx="15.2" cy="34.6" r="1.2"/>
+	<circle class="st0" cx="11" cy="31.6" r="1.4"/>
+	<circle class="st0" cx="14.6" cy="31" r="1.2"/>
+	<circle class="st0" cx="17.8" cy="31.1" r="1"/>
+	<circle class="st0" cx="20.4" cy="31.9" r="0.9"/>
+	<circle class="st0" cx="22.4" cy="33" r="0.8"/>
+	<circle class="st0" cx="23.8" cy="34.3" r="0.6"/>
 </g>
-<text transform="matrix(1 0 0 1 57.1104 20.3038)" class="st2 st3 st4">great work!</text>
+<text transform="matrix(1 0 0 1 59.7812 20.3035)" class="st2 st3 st4">great work!</text>
 <g>
 	<title>Asset 1</title>
 	<g id="Layer_2_2_">
