@@ -11,11 +11,13 @@ body{
     background-size: cover;
     display: flex;
     height: 100vh; 
+    align-content: center;
+    justify-content: center;
 }
 
 #home-container{
     display: grid;
-    grid-template-columns: .5fr 1fr 1fr .5fr; /* for left and right sections */
+    grid-template-columns: 0fr 1fr 1fr .5fr; /* for left and right sections */
     grid-gap: 10px;
     grid-template-areas: 
             ". left right .";
