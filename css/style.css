@@ -15,9 +15,9 @@ body{
     display: grid;
     grid-template-columns: .5fr 1fr 1fr .5fr; /* for left and right sections */
     grid-gap: 10px;
-    grid-template-areas: 
+    grid-template-areas:
             ". left right .";
-    height: 100%;        
+    height: 100%;
 }
 
 #inner{
@@ -41,7 +41,7 @@ img#logo{
 
 h1{
     text-transform: uppercase;
-    color: #535353;
+    color: #535363;
     margin-bottom: .2em;
 }
 
