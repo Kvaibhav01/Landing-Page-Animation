@@ -82,8 +82,21 @@ p.subtitle {
     display: inline-block;
     border-radius: 5px;
     text-decoration: none;
-    /* TODO: add glowing type animation while on hover */
+    box-shadow: 0 0 0 0 rgba(9, 187, 233, .2);
 }
+
+.cta:hover,
+.cta:focus {
+  -webkit-animation: pulse 1.25s infinite cubic-bezier(0.50, 0, 0, 1);
+  -moz-animation: pulse 1.25s infinite cubic-bezier(0.50, 0, 0, 1);
+  -ms-animation: pulse 1.25s infinite cubic-bezier(0.50, 0, 0, 1);
+  animation: pulse 1.25s infinite cubic-bezier(0.50, 0, 0, 1);
+}
+
+@-webkit-keyframes pulse {to {box-shadow: 0 0 0 20px rgba(9, 187, 233, 0);}}
+@-moz-keyframes pulse {to {box-shadow: 0 0 0 20px rgba(9, 187, 233, 0);}}
+@-ms-keyframes pulse {to {box-shadow: 0 0 0 20px rgba(9, 187, 233, 0);}}
+@keyframes pulse {to {box-shadow: 0 0 0 20px rgba(9, 187, 233, 0);}}
 
 #monitor {
     animation: monitorIn 1s ease-in-out forwards; /* assign animation to monitor with 'monitorIn' as keyframe name */
@@ -93,6 +106,10 @@ p.subtitle {
 .crypto-icons {
     position: absolute;
     width: 12%;
+}
+
+.crypto-icons path.b {
+  fill: red;
 }
 
 #dash {
