@@ -6,7 +6,7 @@ Create smooth and beautiful landing page animation using only basic CSS animatio
 
 ### LIVE DEMO: https://kvaibhav01.github.io/Landing-Page-Animation/
 
-![Screenshot](landing screen gif.gif)
+![Screenshot](landing_screen.gif)
 
 ## How-to?
 
