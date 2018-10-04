@@ -4,6 +4,8 @@ Create smooth and beautiful landing page animation using only basic CSS animatio
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
+## Example
+![](animation.gif)
 ### LIVE DEMO: https://kvaibhav01.github.io/Landing-Page-Animation/
 
 ## How-to?
