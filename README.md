@@ -20,13 +20,6 @@ In your CSS file, you need to have the following:
 
 #### That's it! Simple, clean and smooth! 
 
-### TO-DO:
-- [ ] add glowing type animation while on hover
-- [ ] add animations to other elements 
-- [ ] change the layout 
-- [ ] make it Materialistic (maybe...)
-
-
 ## I've written a supporting blog post on  [Codeburst](https://codeburst.io/) publication on [Medium](https://medium.com/). 
 
 You can read the complete post and hit a clap or two [here](https://codeburst.io/create-a-beautiful-landing-page-animation-with-css-8f4501c20c8e)!
