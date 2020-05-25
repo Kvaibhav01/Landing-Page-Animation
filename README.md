@@ -22,4 +22,4 @@ In your CSS file, you need to have the following:
 
 ## I've written a supporting blog post on  [Codeburst](https://codeburst.io/) publication on [Medium](https://medium.com/). 
 
-You can read the complete post and hit a clap or two [here](https://codeburst.io/create-a-beautiful-landing-page-animation-with-css-8f4501c20c8e)!
+Read [this article](https://codeburst.io/create-a-beautiful-landing-page-animation-with-css-8f4501c20c8e) I wrote to incorporate it in your project.
