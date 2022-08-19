@@ -10,7 +10,7 @@ Create smooth and beautiful landing page animation using only basic CSS animatio
 
 ## How-to?
 
-If you know basic CSS along with its animations you can quickly add this type of _landing page_ animation in your [SVG](https://www.w3schools.com/html/html5_svg.asp) files as shown in the demo. I recommend you to take the [W3School's tutorial](https://www.w3schools.com/css/css3_animations.asp) on the same. 
+If you know basic CSS along with its [animations](https://www.scaler.com/topics/css/animation-css/) you can quickly add this type of _landing page_ animation in your [SVG](https://www.w3schools.com/html/html5_svg.asp) files as shown in the demo. I recommend you to take the [W3School's tutorial](https://www.w3schools.com/css/css3_animations.asp) on the same. 
 
 In your CSS file, you need to have the following:
 
